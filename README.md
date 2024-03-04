@@ -6,6 +6,7 @@
 Hey there, welcome to my Portfolio!
 My name is Mary Novak and I am currently a third-year student studying Business Information & Analytics at the Univeristy of Denver, along side with a minor in Kinesiology an Sports Studies. I am from Leawood, Kansas (Kansas City Metro Area). Currently, I am the Vice Preident of the Denver Club Tennis team and have the honor of being elected President for the 24-25 academic year. I am also a member of the Delta Zeta Sorority and Woman in Business.
 
+[SKILLS](Skills.md) || 
 
 
 <!--
