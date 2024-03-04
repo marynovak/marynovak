@@ -1,4 +1,10 @@
-### Hi there 👋
+# Mary Novak
+### Third-year Business Information & Analytcis Student at the University of Denver
+### Minor: Kinesiology and Sports Studies
+#### || marynovakc@gmail.com || [Resume](Mary%Novak%Resume.pdf) ||
+### About me!!
+Hey there! Welcome to my 
+
 
 <!--
 **marynovak/marynovak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
