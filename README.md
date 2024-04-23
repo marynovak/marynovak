@@ -4,7 +4,7 @@
 #### marynovakc@gmail.com || [Resume](Mary_Novak_Resume.pdf) || [LinkedIn](https://www.linkedin.com/in/mary-novak/)
 ### About me!!
 Hey there, welcome to my Portfolio!
-My name is Mary Novak and I am currently a third-year student studying Business Information & Analytics at the Univeristy of Denver, along side with a minor in Kinesiology and Sports Studies. I am origonally from Leawood, Kansas (Kansas City Metro Area). Currently, I am the Vice Preident of the Denver Club Tennis team and have the honor of being elected President for the 24-25 academic year. I am also a member of the Delta Zeta Sorority, Woman in Business, and Danials Ethics Fellows.
+My name is Mary Novak and I am currently a third-year student studying Business Information & Analytics at the Univeristy of Denver, along side with a minor in Kinesiology and Sports Studies. I am origonally from Leawood, Kansas (Kansas City Metro Area). Currently, I am the Vice Preident of the Denver Club Tennis team and have the honor of being elected President for the 24-25 academic year. I am also the VP of Finance of the Delta Zeta Sorority Rho Chapter, member of Woman in Business, and Danials Ethics Fellows.
 
 When I am not in the classroom, doing homework, or coordinating tournaments for the tennis team, I could be found doing these variety hobbies on or off campus:
 -	Skiing
